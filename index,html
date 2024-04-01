@@ -18,7 +18,33 @@
     </header>
   
     <main>
-        <h2>Proximamente Lista de personajes </h2>  
+        <section>
+            <h2>Personajes de Harry Potter</h2>
+            <article>
+                <h3>Personajes de Hogwarts</h3>
+                <ol>
+    
+                </ol>
+            </article>
+            <article>
+                <h3>Personajes de Slytherin</h3>
+                <ol>
+                    
+                </ol>
+            </article>
+            <article>
+                <h3>Personajes de Ravenclaw</h3>
+                <ol>
+                    
+                </ol>
+            </article>
+            <article>
+                <h3>Personajes de Hufflepuff</h3>
+                <ol>
+                    
+                </ol>
+            </article>
+        </section>
     </main>
 
  
